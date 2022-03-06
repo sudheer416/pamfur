@@ -1,0 +1,90 @@
+.rectangle {
+  position: absolute;
+  width: 360px;
+  height: 600px;
+  left: 0px;
+  top: 0px;
+  background: #162b32;
+}
+.title-box {
+  position: absolute;
+  width: 235px;
+  height: 46px;
+  left: 16px;
+}
+.title {
+  font-family: Times;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 46px;
+  color: #6a777c;
+}
+.rectangle-2 {
+  position: absolute;
+  width: 360px;
+  height: 192px;
+  left: 0px;
+  top: 448px;
+  background: #ffffff;
+  border-radius: 16px 16px 0px 0px;
+}
+.text-1 {
+  position: absolute;
+  width: 83px;
+  height: 23px;
+  left: 16px;
+}
+.text {
+  font-family: Times;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  color: #4a4a4a;
+}
+.des {
+  position: absolute;
+  width: 328px;
+  height: 68px;
+  left: 15px;
+  top: 35px;
+}
+.des-text {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 17px;
+  color: #4a4a4a;
+  text-align: left;
+}
+.arrow {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 270px;
+  top: 120px;
+  border: none;
+  border-radius: 68px 0px 0px 0px;
+  background: #ff6a3d;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrowIcon {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  height: 15px;
+}
+.cal-img{
+margin-top:38%;
+
+}
+.month{
+  color:white
+  padding-left:20px;
+}

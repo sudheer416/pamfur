@@ -1,0 +1,21 @@
+.events-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  height: 85vh;
+  border: none;
+  margin-top: 0px;
+  width: 80vw;
+  margin-left: 10%;
+  margin-right: 10%;
+  overflow: hidden;
+}
+.bg1 {
+  background-color: #FFE0E0;
+}
+.bg2 {
+  background-color: #FFE8AC;
+}
+.bg3 {
+  background-color: #E5FFFA;
+}
